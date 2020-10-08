@@ -1,5 +1,5 @@
-# Indonesia Marketplace Product Detail
-Pull product information detail from major Indonesia marketplace.
+# Indonesia Marketplace Product Detail with Python
+Pull product information detail from major Indonesia marketplace with Python.
 
 ## Supported Marketplace
 * JD.ID
