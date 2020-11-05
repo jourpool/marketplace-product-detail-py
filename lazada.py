@@ -1,6 +1,9 @@
 import requests, re, json
 
-#URL example
+#URL example format 1
+#url = 'https://www.lazada.co.id/products/kemeja-polos-pria-lengan-pendek-kemeja-pria-kemeja-polos-kemeja-distro-kemeja-casual-pria-bahan-oxsport-hitam-i2947356098-s5235832860.html'
+
+#URL example format 2
 url = 'https://s.lazada.co.id/s.cnC0l'
 
 #Handle mobile URL
