@@ -26,8 +26,6 @@ headers = {
     'User-Agent': 'PostmanRuntime/7.26.2'
 }
 
-print(url_data)
-
 #Get product information
 response = requests.get(url_data, headers=headers).json()
 
